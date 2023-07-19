@@ -1,0 +1,49 @@
+Script started on 2023-03-04 18:28:34+05:30 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="80" LINES="24"]
+[?2004h(base) ]0;vaastav@vaastav-G3-3500: ~/CS3205/CS20B060-Lab2[01;32mvaastav@vaastav-G3-3500[00m:[01;34m~/CS3205/CS20B060-Lab2[00m$ python lab2-cs20b060.py 1 0000[K[K[K[K500 input.txt
+[?2004lEnter Server Name: www.bank.in
+DNS Mapping: 202.15.5.1
+Enter Server Name: smtp.bank.in
+DNS Mapping: 202.15.5.2
+Enter Server Name: ftp.bank.in
+DNS Mapping: 202.15.5.3
+Enter Server Name: sshd1.bank.in
+DNS Mapping: 202.15.5.4
+Enter Server Name: vpn.bank.in
+DNS Mapping: 202.15.5.5
+Enter Server Name: www.shop.in
+DNS Mapping: 133.54.5.1
+Enter Server Name: ww  smtp.store.in
+DNS Mapping: 143.11.5.22
+Enter Server Name: ftp.mynah.ed  ac
+DNS Mapping: 198.167.5.3
+Enter Server Name: ww  sshd1.brown.ac
+DNS Mapping: 192.13.5.4
+Enter Server Name: iitm.vpn.cougar.ac
+DNS Mapping: 212.18.55.5
+Enter Server Name: abcd
+DNS Mapping: Invalid server name
+Enter Server Name: www.workflow.iitm.ac.in
+No DNS Record Found
+Enter Server Name: abc.bank.in
+No DNS Record Found
+Enter Server Name: bye
+All Server Processes are killed. Exiting.
+[?2004h(base) ]0;vaastav@vaastav-G3-3500: ~/CS3205/CS20B060-Lab2[01;32mvaastav@vaastav-G3-3500[00m:[01;34m~/CS3205/CS20B060-Lab2[00m$ lsof -i:1553
+[?2004l[?2004h(base) ]0;vaastav@vaastav-G3-3500: ~/CS3205/CS20B060-Lab2[01;32mvaastav@vaastav-G3-3500[00m:[01;34m~/CS3205/CS20B060-Lab2[00m$ lsof -i:1553[K4
+[?2004l[?2004h(base) ]0;vaastav@vaastav-G3-3500: ~/CS3205/CS20B060-Lab2[01;32mvaastav@vaastav-G3-3500[00m:[01;34m~/CS3205/CS20B060-Lab2[00m$ lsof -i:1554[K5
+[?2004l[?2004h(base) ]0;vaastav@vaastav-G3-3500: ~/CS3205/CS20B060-Lab2[01;32mvaastav@vaastav-G3-3500[00m:[01;34m~/CS3205/CS20B060-Lab2[00m$ lsof -i:1555[K6
+[?2004l[?2004h(base) ]0;vaastav@vaastav-G3-3500: ~/CS3205/CS20B060-Lab2[01;32mvaastav@vaastav-G3-3500[00m:[01;34m~/CS3205/CS20B060-Lab2[00m$ lsof -i:1556[K7
+[?2004l[?2004h(base) ]0;vaastav@vaastav-G3-3500: ~/CS3205/CS20B060-Lab2[01;32mvaastav@vaastav-G3-3500[00m:[01;34m~/CS3205/CS20B060-Lab2[00m$ lsof -i:1557[K8
+[?2004l[?2004h(base) ]0;vaastav@vaastav-G3-3500: ~/CS3205/CS20B060-Lab2[01;32mvaastav@vaastav-G3-3500[00m:[01;34m~/CS3205/CS20B060-Lab2[00m$ lsof -i:1558[K9
+[?2004l[?2004h(base) ]0;vaastav@vaastav-G3-3500: ~/CS3205/CS20B060-Lab2[01;32mvaastav@vaastav-G3-3500[00m:[01;34m~/CS3205/CS20B060-Lab2[00m$ lsof -i:1559[K[K60
+[?2004l[?2004h(base) ]0;vaastav@vaastav-G3-3500: ~/CS3205/CS20B060-Lab2[01;32mvaastav@vaastav-G3-3500[00m:[01;34m~/CS3205/CS20B060-Lab2[00m$ lsof -i:1560[K1
+[?2004l[?2004h(base) ]0;vaastav@vaastav-G3-3500: ~/CS3205/CS20B060-Lab2[01;32mvaastav@vaastav-G3-3500[00m:[01;34m~/CS3205/CS20B060-Lab2[00m$ lsof -i:1561[K2
+[?2004l[?2004h(base) ]0;vaastav@vaastav-G3-3500: ~/CS3205/CS20B060-Lab2[01;32mvaastav@vaastav-G3-3500[00m:[01;34m~/CS3205/CS20B060-Lab2[00m$ lsof -i:15621059876543python lab2-cs20b060.py 1500 input.txt
+[?2004lEnter Server Name: www.cougar.com   ac
+DNS Mapping: 212.18.25.1
+Enter Server Name: bye
+All Server Processes are killed. Exiting.
+[?2004h(base) ]0;vaastav@vaastav-G3-3500: ~/CS3205/CS20B060-Lab2[01;32mvaastav@vaastav-G3-3500[00m:[01;34m~/CS3205/CS20B060-Lab2[00m$ exit
+[?2004lexit
+
+Script done on 2023-03-04 18:32:09+05:30 [COMMAND_EXIT_CODE="0"]

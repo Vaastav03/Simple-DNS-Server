@@ -1,0 +1,13 @@
+Experience:
+    The assignment was more cumbursome to do as it didnt 
+    have much of a logic and the parsing took a bit time but
+    it was fun to do. Debugging was actually a tough part where
+    if i had something to change in one of the ads file then i 
+    have to go on and reflect that change in every other ads file.
+Suggestions for change:
+    We could have few modifications in the current program to get as
+    practical as possible. Firstly we can have a dynamic creation brought
+    into place where we can add multiple tds to the root and populating the 
+    server. Here we have fixed the number of domains under a particular ads
+    we can change that to a dynamic one and we have to have a check on the 
+    portnumbers and this can be replicated.
